@@ -1,7 +1,3 @@
-Here’s a README template for your original project without the automation part, focusing on the key components:
-
----
-
 # Asset Management System (Django, Streamlit, PostgreSQL)
 
 This is an Asset Management System built with Django, Streamlit, and PostgreSQL. It allows users to manage assets such as laptops, desktops, and other hardware by storing and processing information about them. The system includes features for adding, updating, and viewing assets, and is designed to integrate with PostgreSQL for data storage and Streamlit for a web-based interface.
